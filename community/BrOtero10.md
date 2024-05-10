@@ -20,7 +20,7 @@ Olá! Me chamo Bruno Otero, tenho 19 anos e estou iniciando minha carreira na á
 
 💻 Estagiário em desenvolvimento web na Vivo
 
-🥇 Qualificado na primeira etaba das Olimpíadas Brasileiras de Informática (OBI) em 2023
+🥇 Qualificado na primeira etapa das Olimpíadas Brasileiras de Informática (OBI) em 2023
 
 
 
